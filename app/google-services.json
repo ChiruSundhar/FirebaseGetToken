@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "129537258580",
+    "firebase_url": "https://demofirebase-d1ba2.firebaseio.com",
+    "project_id": "demofirebase-d1ba2",
+    "storage_bucket": "demofirebase-d1ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129537258580:android:f6cc29623ba4f8a1",
+        "android_client_info": {
+          "package_name": "com.prematix.demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129537258580-togagim0a2an6b6du0oja7og9bd3tkpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prematix.demofirebase",
+            "certificate_hash": "16d52d7eb79391a7a17143efdcda3057d882ac82"
+          }
+        },
+        {
+          "client_id": "129537258580-6mnj3e8h4qnjpfkcqgaepsek7m3iqrsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl_QiquuwDMTwe6HOJaF6cKvqPgJLPjGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129537258580-6mnj3e8h4qnjpfkcqgaepsek7m3iqrsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
